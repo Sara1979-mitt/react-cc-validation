@@ -1,5 +1,4 @@
-# Credit Card Validation
-
+# 4514 0785 3002 2216
 A React component for verifying the potential validity of a credit card number using the [Luhn algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm).
 
 ## Demo
